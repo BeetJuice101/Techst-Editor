@@ -7,7 +7,7 @@ Techst Editor is an open source text editor. Techst Editor is a project made by 
 
 # Getting Started:
 
-If you are on a Linux based software here are the stes to set up Techst Editor
+If you are on a Linux based software here are the steps to set up Techst Editor
 1. Go to releases and save the file called techst_editor_3.0.py
 2. Go to terminal and type the following command
 3. chmod +x techst_editor.py
