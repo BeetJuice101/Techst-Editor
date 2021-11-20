@@ -31,6 +31,8 @@ New Features:
 
 Video Tutorial On How To Use The API: [YouTube Video](https://youtu.be/m1gULbL-8s8)
 
+I'm working on update 4.0!
+
 # Contact Info
 
 Your can contact us via our email.  The email is contact@techsteditor.com.
