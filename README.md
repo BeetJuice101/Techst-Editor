@@ -15,7 +15,7 @@ If you are on a Linux based software here are the steps to set up Techst Editor
 Or you can click the link below
 
 If you are on Windows click the link below and follow the instructions
-https://techsteditor.com/index.php/download-techst-editor/
+[Techsteditor.com Download Page](https://techsteditor.com/index.php/download-techst-editor/)
 
 If there are any issues please report it
 
